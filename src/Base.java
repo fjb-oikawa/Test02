@@ -1,6 +1,6 @@
 
 public class Base {
-	final static int COUNT = 10;
+	final static int COUNT = 77;
 	final static String MSG = "Gitテスト";
 	public Base(){
 		for(int i=0;i<COUNT;i++)
