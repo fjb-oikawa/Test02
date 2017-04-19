@@ -3,7 +3,7 @@ public class Base {
 	final static int COUNT = 100;
 	final static String MSG = "Gitテスト";
 	public Base(){
-		for(int i=0;i<COUNT;i++)
+		for(int i=COUNT-1;i>=0;i--)
 			System.out.println(MSG+i);
 	}
 }
